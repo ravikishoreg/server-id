@@ -1,0 +1,15 @@
+{
+  "name": "server-id",
+  "version": "1.0.0",
+  "description": "A sample - To identify a server in multi environment setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ravi Kishore Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "getmac": "^1.2.1"
+  }
+}
