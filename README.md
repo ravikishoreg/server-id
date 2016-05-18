@@ -2,6 +2,7 @@
 
 On an ubuntu machine
 
+```sh
 sudo su
 apt-get update
 curl -sL https://deb.nodesource.com/setup | bash -
@@ -12,3 +13,4 @@ cd server-id
 npm install
 npm install -g forever
 forever start index.js
+```
